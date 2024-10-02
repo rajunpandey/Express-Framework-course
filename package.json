@@ -2,10 +2,10 @@
   "name": "express-framework-course",
   "version": "1.0.0",
   "description": "learned express framework",
-  "main": "index.js",
+  "main": "server1",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server1",
+    "dev": "nodemon server1"
   },
   "author": "rajun pandey",
   "license": "ISC",
