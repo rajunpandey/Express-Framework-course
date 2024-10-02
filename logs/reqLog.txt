@@ -13,3 +13,27 @@
 20241002	12:38:33	17181ed8-d959-49c0-9f66-329792800316	/new-page.html	GET
 20241002	12:38:33	451f93d9-5042-466d-9a76-94349ad0a999	/css/style.css	GET
 20241002	12:38:33	8c58263f-ac96-43db-8019-b3a4ff59b4f5	/img/img1.jpg	GET
+20241002	13:34:05	30b0b8dc-1e7d-4e29-8adf-cea77fee78bf	GET	undefined	/
+20241002	13:34:05	9aec77cb-0b51-41a6-8b76-d5c330ce9aff	GET	undefined	/css/style.css
+20241002	13:34:13	e635a294-c6f4-478b-8f15-78ba17b46f28	GET	undefined	/new-page.html
+20241002	13:34:13	64fdccfe-c8fa-4455-ae19-1277dd611451	GET	undefined	/css/style.css
+20241002	13:34:13	83491268-b3ba-429d-ad65-aa58d2526bbd	GET	undefined	/img/img1.jpg
+20241002	13:34:36	dfb59c61-1292-43ca-b32b-47f0e19a42d1	GET	undefined	/public
+20241002	13:34:36	cbbbe590-8782-4131-850a-3164ecb856e0	GET	undefined	/css/style.css
+20241002	13:34:51	c55d0715-11d2-44a3-92c9-87fef506bb74	GET	undefined	/old-page
+20241002	13:34:51	746a0dc0-ead0-4829-89dc-01bd7437597a	GET	undefined	/new-page.html
+20241002	13:34:51	f17f368c-dd7c-4073-9000-cb4ac840547f	GET	undefined	/css/style.css
+20241002	13:34:51	b34c5515-3056-4960-b156-2ce3b9c48b6f	GET	undefined	/img/img1.jpg
+20241002	13:35:08	7b73037e-49fa-432f-99a8-78fc59862254	GET	undefined	/hello
+20241002	13:41:02	1b9aa2b0-3066-4bb0-90d1-86239371c96b	GET	undefined	/cors
+20241002	13:41:02	2787c341-6a99-4f2e-96de-8bb323c62e1a	GET	undefined	/css/style.css
+20241002	13:41:24	4262377c-e5ce-4e1d-ae92-f2e30c7011d9	GET	undefined	/youtube
+20241002	13:41:24	8554de98-3ed6-47c7-97e8-769005c879a2	GET	undefined	/css/style.css
+20241002	13:41:54	d5b41f81-c05c-47d8-8a3b-39e09f5ca0a4	GET	undefined	/index.html
+20241002	13:41:54	9be29b4e-3a7b-46ca-a655-606b61db3cf2	GET	undefined	/css/style.css
+20241002	13:42:03	466f98a2-5f7f-4e59-8044-77618fe846ad	GET	undefined	/css
+20241002	13:42:03	473419f7-6d80-42bc-945a-e23f7f26fb75	GET	undefined	/css/
+20241002	13:42:03	15641a35-d14f-443a-9153-f3507ba7babb	GET	undefined	/css/style.css
+20241002	13:42:12	d8f1197a-94c0-434a-9415-0ad438d69403	GET	undefined	/index.css
+20241002	13:42:12	981ca34c-dbb1-4f15-8b3f-09201ec480d8	GET	undefined	/css/style.css
+20241002	13:42:31	73af1534-f608-4790-84d2-be4d09259f83	GET	undefined	/chain
