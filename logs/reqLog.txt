@@ -37,3 +37,13 @@
 20241002	13:42:12	d8f1197a-94c0-434a-9415-0ad438d69403	GET	undefined	/index.css
 20241002	13:42:12	981ca34c-dbb1-4f15-8b3f-09201ec480d8	GET	undefined	/css/style.css
 20241002	13:42:31	73af1534-f608-4790-84d2-be4d09259f83	GET	undefined	/chain
+20241002	14:07:37	408b19b6-db24-48a4-bd00-83303af432dd	GET	undefined	/
+20241002	14:07:37	68af89a3-8d72-4ed8-99f7-3b9f7f53a483	GET	undefined	/css/style.css
+20241002	14:08:06	5cf63d4b-5245-4506-ac56-bda328e8ba01	GET	undefined	/subdir
+20241002	14:08:06	88c83352-8e44-4023-8635-877f85eb5c7f	GET	undefined	/subdir/
+20241002	14:08:44	ceae562a-47b3-4a48-b2b0-bbc8fd35c132	GET	undefined	/public
+20241002	14:08:44	f5f2424d-e0d8-420d-80fd-dfbc315240d7	GET	undefined	/css/style.css
+20241002	14:09:02	8738418c-4ca0-4b5f-9453-93b953986a55	GET	undefined	/employees
+20241002	14:10:01	76d26b58-4be9-430c-b032-2f8c25bb6707	GET	undefined	/employees
+20241002	14:11:24	3b164d2e-7af9-4cf0-a82a-78f1107747c5	GET	undefined	/employees/1
+20241002	14:11:37	f5b9d399-3ad3-412a-a231-b0a544fe75a9	GET	undefined	/employees/rajun
