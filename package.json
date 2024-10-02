@@ -2,10 +2,10 @@
   "name": "express-framework-course",
   "version": "1.0.0",
   "description": "learned express framework",
-  "main": "server4",
+  "main": "server5",
   "scripts": {
-    "start": "node server4",
-    "dev": "nodemon server4"
+    "start": "node server5",
+    "dev": "nodemon server5"
   },
   "author": "rajun pandey",
   "license": "ISC",
