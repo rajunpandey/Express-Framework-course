@@ -2,14 +2,15 @@
   "name": "express-framework-course",
   "version": "1.0.0",
   "description": "learned express framework",
-  "main": "server5",
+  "main": "server6",
   "scripts": {
-    "start": "node server5",
-    "dev": "nodemon server5"
+    "start": "node server6",
+    "dev": "nodemon server6"
   },
   "author": "rajun pandey",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
     "date-fns": "^4.1.0",
     "express": "^4.21.0",
