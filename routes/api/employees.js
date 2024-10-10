@@ -35,6 +35,7 @@ module.exports = router;
 const express = require('express');
 const router = express.Router();
 const employeesController = require('../../controllers/employeesController');
+const verify = require('../../middleware/verifyJWT');
 
 router.route('/')
     .get(employeesController.getAllEmployees)
