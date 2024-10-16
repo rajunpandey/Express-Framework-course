@@ -2,10 +2,10 @@
   "name": "express-framework-course",
   "version": "1.0.0",
   "description": "learned express framework",
-  "main": "server7",
+  "main": "server8",
   "scripts": {
-    "start": "node server7",
-    "dev": "nodemon server7"
+    "start": "node server8",
+    "dev": "nodemon server8"
   },
   "author": "rajun pandey",
   "license": "ISC",
@@ -17,6 +17,7 @@
     "dotenv": "^16.4.5",
     "express": "^4.21.0",
     "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.1",
     "uuid": "^10.0.0"
   },
   "devDependencies": {
